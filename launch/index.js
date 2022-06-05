@@ -26,7 +26,7 @@ nuker.on("ready", () => {
                     Nuker: ${nuker.user.tag}
                     Prefix: ${prefix}
     `))
-    nuker.user.setActivity("Rice Beamer Trolling", {
+    nuker.user.setActivity("jekankermoeder", {
         type: "STREAMING",
         url: "https://www.twitch.tv/amouranth"
       });
